@@ -1,2 +1,2 @@
 # mamon
-My version of TP verstak's maket.
+Layout made according to the template from "tpverstak".
